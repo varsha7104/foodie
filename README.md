@@ -29,6 +29,14 @@ This project is built with the following technologies:
 - React Router: For handling routing within the app.
 - Material-UI: A popular library for building beautiful and responsive UI components.
 - Vite: A fast build tool for modern web development.
+## HomePage:
+![image](https://github.com/user-attachments/assets/b6c67b09-d5da-423e-91ab-059fa71bef5d)
+## Search Page
+
+![image](https://github.com/user-attachments/assets/07e0ab10-cd56-40f7-a78d-949fdb68a6fa)
+## Inside the receipe
+![image](https://github.com/user-attachments/assets/560bdba4-ab20-47bc-bdaa-fc6afd55bca9)
+
 
 
 
